@@ -2,7 +2,7 @@
 
  <br/>
   <img align="right" alt="GIF" src="https://github.com/divyarang24/divyarang24/blob/main/image.svg" width="500" height="500" />
-## 👨🏻‍💻 About Me:
+<h1>👨🏻‍💻 About Me:</h1>
 
 <p>👋 Hi there! I'm Divya Rang, a passionate blockchain and  🦀 Rust developer with a knack for turning innovative ideas into reality. My expertise lies in Rust, React, NestJS, JavaScript, Next.js, Soroban, Solana, and Stellar.
 
