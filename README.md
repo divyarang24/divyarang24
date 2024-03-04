@@ -13,3 +13,10 @@
 Let's connect and explore the exciting possibilities at the intersection of blockchain, Rust, and beyond! 🌐💻💃 #BlockchainDeveloper #Rust #SmartContracts #DanceEnthusiast</p>
 
 
+##  Let's get connected:
+
+<p>
+ <a href="https://www.linkedin.com/in/divya-rang-3a0002230/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+
+ 
+</p>
