@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<p>👋 Hi there! I'm Divya Rang, a passionate blockchain and Rust developer with a knack for turning innovative ideas into reality. My expertise lies in Rust, React, NestJS, JavaScript, Next.js, Soroban, Solana, and Stellar.
+<p>👋 Hi there! I'm Divya Rang, a passionate blockchain and  🦀 Rust developer with a knack for turning innovative ideas into reality. My expertise lies in Rust, React, NestJS, JavaScript, Next.js, Soroban, Solana, and Stellar.
 
 🚀 Currently, I'm deeply immersed in the world of Soroban smart contracts, where I bring my skills to craft efficient and secure solutions. I thrive on challenges and love contributing to cutting-edge projects that push the boundaries of technology.
 
