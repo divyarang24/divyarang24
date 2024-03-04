@@ -1,3 +1,3 @@
-<h1 align="center">Hello, I'm Divya Rang 🦀</h1>
+<h1 align="center"> 🦀 Hello, I'm Divya Rang </h1>
 
 
