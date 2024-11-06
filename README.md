@@ -4,13 +4,9 @@
   <img align="right" alt="GIF" src="https://github.com/divyarang24/divyarang24/blob/main/image.svg" width="500" height="600" />
 <h1>👨🏻‍💻 About Me:</h1>
 
-<p>👋 Hi there! I'm Divya Rang, a passionate blockchain and  🦀 Rust developer with a knack for turning innovative ideas into reality. My expertise lies in Rust, React, NestJS, JavaScript, Next.js, Soroban, Solana, and Stellar.
+<p>👋 Hi there! I'm Divya Rang , a JavaScript developer with 3 years of experience specializing in frontend technologies. I’m proficient in React.js, Next.js, Redux, and Material-UI, and I love building user-friendly, dynamic web applications. 
 
-🚀 Currently, I'm deeply immersed in the world of Soroban smart contracts, where I bring my skills to craft efficient and secure solutions. I thrive on challenges and love contributing to cutting-edge projects that push the boundaries of technology.
-
-💡 Beyond coding, I find joy in the rhythm of dance. When not immersed in the digital realm, you'll likely find me on the dance floor, expressing myself through movement.
-
-Let's connect and explore the exciting possibilities at the intersection of blockchain, Rust, and beyond! 🌐💻💃 #BlockchainDeveloper #Rust #SmartContracts #DanceEnthusiast</p>
+With a passion for crafting responsive designs and managing complex state efficiently, I enjoy solving challenges and delivering impactful solutions that enhance the user experience. Let’s connect and collaborate on creating modern, scalable web projects!</p>
 
 
 ##  Let's get connected:
