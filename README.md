@@ -4,10 +4,17 @@
   <img align="right" alt="GIF" src="https://github.com/divyarang24/divyarang24/blob/main/image.svg" width="500" height="600" />
 <h1>👨🏻‍💻 About Me:</h1>
 
-<p>👋 "Hi, I'm Divya, a dedicated JavaScript developer with 3 years of experience, specializing in creating seamless frontend experiences. I bring expertise in React.js, Next.js, Redux, and Material-UI, delivering high-quality, user-centered web applications.
+<p>
+
+
+ 
+ 👋 "Hi, I'm Divya, a dedicated JavaScript developer with 3 years of experience, specializing in creating seamless frontend experiences. I bring expertise in React.js, Next.js, Redux, and Material-UI, delivering high-quality, user-centered web applications.
 
 Fueled by a passion for responsive design and efficient state management, 
 I thrive on tackling complex challenges to build intuitive, scalable solutions that make a lasting impact. Let’s connect to bring innovative, modern web projects to life!"
+
+
+
 </p>
 
 
