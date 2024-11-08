@@ -8,10 +8,11 @@
 
 
  
- 👋 "Hi, I'm Divya, a dedicated JavaScript developer with 3 years of experience, specializing in creating seamless frontend experiences. I bring expertise in React.js, Next.js, Redux, and Material-UI, delivering high-quality, user-centered web applications.
+ 👋 Hi, I'm Divya—a passionate JavaScript developer with 3 years of experience, specializing in frontend development and driven by a commitment to creating exceptional digital experiences. With expertise in React.js, Next.js, Redux, and Material-UI, I excel at building dynamic, user-focused applications that blend intuitive design with high performance.
 
-Fueled by a passion for responsive design and efficient state management, 
-I thrive on tackling complex challenges to build intuitive, scalable solutions that make a lasting impact. Let’s connect to bring innovative, modern web projects to life!"
+My approach is grounded in crafting responsive, accessible interfaces and solving complex state management challenges with clean, scalable code. Whether it's designing seamless UIs, optimizing application performance, or enhancing UX through thoughtful animations and interactions, I’m dedicated to elevating the user experience.
+
+Beyond technical skills, I thrive in collaborative environments where innovation and problem-solving go hand in hand. Let’s connect to create impactful, modern web applications that not only look great but deliver real value to users!
 
 
 
