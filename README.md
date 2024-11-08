@@ -1,4 +1,4 @@
-<h1 align="center"> 🦀 Hello, I'm Divya Rang </h1>
+<h1 align="center">  Hello, I'm Divya Rang </h1>
 
  <br/>
   <img align="right" alt="GIF" src="https://github.com/divyarang24/divyarang24/blob/main/image.svg" width="500" height="600" />
